@@ -1,4 +1,3 @@
 apple
 ball
-catzy
 dog
